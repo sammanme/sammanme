@@ -1,7 +1,5 @@
 # samson-akinola
-My github
-
-Hello, you are welcome here.
+My GitHub. Hello, you are welcome here.
 
 
 
